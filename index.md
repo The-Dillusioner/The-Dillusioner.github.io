@@ -1,11 +1,11 @@
-#Science Adventure Series
+# Science Adventure Series
 
-##Side Material Guide
+## Side Material Guide
 
 Compiled by The_Dillusioner,
 with inspiration from Originope and The Observer of time
 
-###Additional Resources : 
+### Additional Resources : 
 -Kiri Kiri Basara
 -Committee of Zero
 -Originope's SCIADV Guide
@@ -13,4 +13,4 @@ with inspiration from Originope and The Observer of time
 
 ---
 
-##Chaos;Head
+## Chaos;Head
