@@ -1,6 +1,6 @@
 # Science Adventure Series
 
-## Side Material Guide
+## Side Material List
 
 Compiled by The_Dillusioner,
 with inspiration from Originope and The Observer of time
